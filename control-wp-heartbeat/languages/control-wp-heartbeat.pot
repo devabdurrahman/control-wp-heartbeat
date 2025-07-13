@@ -1,0 +1,40 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Control WP Heartbeat 1.0\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: ChatGPT POT Generator\n"
+
+msgid "Allow"
+msgstr ""
+
+msgid "Control Options"
+msgstr ""
+
+msgid "Dashboard"
+msgstr ""
+
+msgid "Disallow"
+msgstr ""
+
+msgid "Frontend"
+msgstr ""
+
+msgid "Heartbeat Control"
+msgstr ""
+
+msgid "Heartbeat Control Settings"
+msgstr ""
+
+msgid "Modify Frequency"
+msgstr ""
+
+msgid "Post Editor"
+msgstr ""
+
+msgid "Settings"
+msgstr ""
+
+msgid "seconds"
+msgstr ""
